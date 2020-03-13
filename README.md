@@ -2,7 +2,7 @@
 
 Screenshots
 
-<img src="screenshots/screenshot.png" height="500em" /><img src="screenshotsscreenshot.png" height="500em" /><img src="screenshotsscreenshot.png" height="500em" /> 
+<img src="screenshots/01.png" height="500em" /><img src="screenshots/02.png" height="500em" /><img src="screenshots/03.png" height="500em" /> 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
